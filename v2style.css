@@ -4,8 +4,9 @@
 header {
   text-align: center
   margin: auto;
-  width: 600px;
-  background-color: #eae2b7;
+  width: 800px;
+  background-color: #eae2b7
+  background-size: 100%;
 
  
   
@@ -21,7 +22,8 @@ header {
 
 
 
-main {background-color: #eae2b7;}
+main {background-color: #eae2b7;
+    }
 
 body {
   color: #003049;
@@ -29,7 +31,7 @@ body {
   
 
   margin: auto;
-  width: 600px
+  width: 800px
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
